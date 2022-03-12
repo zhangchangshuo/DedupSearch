@@ -58,7 +58,7 @@ destor can run as follows:
    > destor /path/to/data -p"a line as in config file"
 
 2. start a restore task,
-   > destor -r<jobid> /path/to/restore -p"a line as in config file"
+   > destor -r<JOB_ID> /path/to/restore -p"a line as in config file"
 
 3. show the current statistics of system,
    > destor -s
